@@ -1,0 +1,37 @@
+.FirstDiv{
+    background-image: url(../Assest/b3.jpg);
+    opacity: 0.9;
+    border: 3px solid black;
+    height: 700px;
+    image-rendering: auto;
+    background-repeat: repeat-y;
+ 
+}
+.HomeSC:hover{
+    border-bottom: 2px solid white;
+   
+    
+}
+.secondDiv{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    margin-top: 110px;
+    opacity: 0.5;
+}
+
+.ThirdDiv{
+    background-image: url("https://cdn.pixabay.com/photo/2022/08/30/15/33/nature-7421337_960_720.jpg");
+    height: 650px;
+    /* width: 900px; */
+    /* background-color: black; */
+    background-repeat: repeat-x;
+    /* background-repeat: no-repeat; */
+   
+}
+ .footer{
+    background-image: url(../Assest/or.png);
+    height: 550px;
+
+} 
